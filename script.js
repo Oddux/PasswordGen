@@ -1,7 +1,7 @@
 // Assignment Code
 //Create arrays for characters
 //Pull random letters and numbers from character arrays to password arrays
-//Shuffle password to mix the concactinated(sp?) arrays
+
 
 var generateBtn = document.querySelector("#generate");
 var passwordLength = 8;
