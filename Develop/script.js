@@ -22,7 +22,7 @@ function generatePassword () {
 
 
 function userInputs(){
-  passwordLength - parseInt(prompt("How long do you want your password, from 8 to 128 characters in length?"));
+  passwordLength = parseInt(prompt("How long do you want your password, from 8 to 128 characters in length?"));
   if(isNaN(passwordLength) || passwordLength < 8 || passwordLength > 128) {
     alert("Your password length must be a whole number between 8 and 128 characters. Please try again.");
     return false;
