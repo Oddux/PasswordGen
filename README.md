@@ -28,9 +28,11 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
 
-## Mock-Up
+## Screenshot
 
 The following image shows the web application's appearance and functionality:
+![Application showing a generated password.](./Assets/DeployedPassGen.png)
 
-![The Password Generator application displays a red button to "Generate Password".](./Assets/03-javascript-homework-demo.png)
+## Deployed URL
 
+https://oddux.github.io/PasswordGen/
